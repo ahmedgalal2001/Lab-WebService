@@ -1,0 +1,17 @@
+{
+    "name": "ahmedgalal/php",
+    "authors": [
+        {
+            "name": "ahmed galal",
+            "email": "ahmedgalal@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "config.php"
+        ],
+        "classmap": [
+            "Models"
+        ]
+    }
+}
